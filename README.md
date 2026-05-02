@@ -41,6 +41,4 @@ A focused exercise in data engineering and quality assurance.
 
 ---
 
-## Author
-**Amudha. N** Batch: TN-DA-ANB11  
-Project Domain: Data Analytics & Business Intelligence
+
